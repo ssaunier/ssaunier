@@ -1,1 +1,1 @@
-Teaching code at [Le Wagon](https://www.lewagon.com) since 2014!
+CTO & Co-founder of [Le Wagon](https://www.lewagon.com)
